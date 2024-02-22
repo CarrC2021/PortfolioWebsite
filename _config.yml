@@ -1,1 +1,5 @@
-
+title: Casey Carr
+logo: /assets/img/face.png
+description: data science portfolio
+show_downloads: true
+theme: jekyll-theme-minimal
